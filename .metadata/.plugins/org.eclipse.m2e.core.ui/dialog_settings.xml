@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Jenkins With Java Web Project\Javaweb"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +26,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simple_web_app.simple_app"/>
 			<item value="com.simple_web_app.Javaapp"/>
 		</list>
 		<list key="groupId">
 			<item value="com.simple_web_app"/>
 		</list>
 		<list key="artifactId">
+			<item value="simple_app"/>
 			<item value="Javaapp"/>
 		</list>
 		<list key="projectNameTemplate">
